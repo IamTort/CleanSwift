@@ -3,6 +3,7 @@
 
 import Foundation
 
+/// Презентер экрана деталей
 final class DetailPresenter: DetailPresentationLogic {
     // MARK: - Public Properties
 

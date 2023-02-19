@@ -3,6 +3,7 @@
 
 import Foundation
 
+/// Интерактор экрана деталей
 final class DetailInteractor: DetailBusinessLogic, DetailDataStore {
     // MARK: - Public Properties
 

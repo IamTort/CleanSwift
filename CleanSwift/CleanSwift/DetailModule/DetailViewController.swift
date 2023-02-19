@@ -4,7 +4,7 @@
 import UIKit
 
 /// Экран деталей
-class DetailViewController: UIViewController {
+final class DetailViewController: UIViewController {
     // MARK: - Private Enum
 
     private enum Constants {

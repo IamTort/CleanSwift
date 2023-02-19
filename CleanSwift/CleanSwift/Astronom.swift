@@ -5,6 +5,8 @@ import Foundation
 
 /// Данные о галактике
 struct Astronom: Decodable {
+    /// Название астрономического явления
     let title: String
+    /// Ссылка на картинку
     let url: String
 }

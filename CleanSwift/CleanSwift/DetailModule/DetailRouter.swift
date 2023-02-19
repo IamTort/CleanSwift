@@ -4,6 +4,7 @@
 import StoreKit
 import UIKit
 
+/// Роутер экрана деталей
 final class DetailRouter: DetailRoutingLogic {
     // MARK: - Public Properties
 
